@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Mushroom LED Lamp",
+    "price": "£6.99",
+    "resale": "£18.00",
+    "roi": "+157%",
+    "link": "https://temu.com",
+    "image": "https://i.imgur.com/u3yU1KF.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cat Paw Chair Socks (4pc)",
+    "price": "£1.99",
+    "resale": "£6.49",
+    "roi": "+226%",
+    "link": "https://temu.com",
+    "image": "https://i.imgur.com/HX6kN5G.jpg"
+  }
+]
